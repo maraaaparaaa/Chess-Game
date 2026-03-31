@@ -70,7 +70,7 @@ chess-java/
 ### Run
 
 ```bash
-git clone 
+git clone https://github.com/maraaaparaaa/Chess-Game.git
 cd chess-java
 javac -d out src/**/*.java
 java -cp out Main
