@@ -47,6 +47,7 @@ chess-java/
 │   ├── module/
 │   │   ├── GamePanel.java     # Game loop, input handling, move validation
 │   │   ├── Board.java         # Board rendering (8x8, alternating colors)
+|   |   ├── Type.java          # Enum that handles the types of pieces
 │   │   └── Mouse.java         # MouseListener / MouseMotionListener
 │   └── piece/
 │       ├── Piece.java         # Abstract base class
